@@ -1,4 +1,3 @@
-MODUL 2 PRAKTIKUM
 package modul2;
 
 import java.util.Scanner;
